@@ -1,3 +1,4 @@
 test1.ipynb
 tset2.ipynb
 __pycache__
+*.npy
