@@ -4,3 +4,5 @@ __pycache__
 *.npy
 test2.ipynb
 test3.ipynb
+datasets
+stacked.ipynb
